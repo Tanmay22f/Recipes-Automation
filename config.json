@@ -1,1 +1,7 @@
-
+{
+  "kill_switch": false,
+  "update_required": false,
+  "latest_version": "1.2.0",
+  "update_message": "New update required to continue.",
+  "download_url": "https://raw.githubusercontent.com/<username>/<repo>/main/releases/myapp_v1.2.0.exe"
+}
